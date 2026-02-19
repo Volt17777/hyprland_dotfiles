@@ -27,7 +27,7 @@ window#waybar.hidden {
   /* Fix weird spacing in materia (waybar #450) */
   box-shadow: inset 0 -3px transparent;
   /* Use box-shadow instead of border so the text isn't offset */
-  padding: 6px 18px;
+  padding: 6px 5px;
   margin: 6px 3px;
   border-radius: 0px;
   background-color: #1e1e2e;
@@ -62,7 +62,7 @@ window#waybar.hidden {
 #tray {
   border-radius: 0px;
   margin: 6px 3px;
-  padding: 6px 12px;
+  padding: 6px 10px;
   background-color: #1e1e2e;
   /* #181825 */
   color: #cfc9c2;
@@ -120,7 +120,7 @@ window#waybar.hidden {
 
 #clock {
   font-family: JetBrainsMono Nerd Font;
-  background-color: #565f89;
+  background-color: transparent;
 }
 
 #custom-power {
