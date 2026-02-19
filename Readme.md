@@ -1,3 +1,5 @@
+colors for waybar, fastfetch and hyprland have been built to fit btop's color theme "phoenix-night"
+
 Features above default hyprland and waybar configuration:
 
 (waybar based on sameemul-haque's config and css files)
