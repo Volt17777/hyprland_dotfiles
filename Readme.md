@@ -1,0 +1,5 @@
+Features above default hyprland and waybar configuration:
+waybar based on sameemul-haque's config and css files
+
+-switching keyboard language layout with super+space, switching between "en" and "de"
+-waybar icon for current keyboard layout
