@@ -13,7 +13,6 @@ colors for waybar, fastfetch and hyprland have been built to fit btop's color th
 -firefox (browser)
 
 (waybar based on sameemul-haque's config and css files)
-
 **Features above default hyprland and waybar configuration:**
 
 -switching keyboard language layout with super+space, switching between "en" and "de"
