@@ -4,7 +4,7 @@ colors for waybar, fastfetch and hyprland have been built to fit btop's color th
 
 -kitty (terminal)
 
--midnight commander (file explorer)
+-dolphin (file explorer)
 
 -rofi (execute programms)
 
